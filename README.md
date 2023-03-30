@@ -27,8 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](https://github.com/PUDE123/Simple-Price-Grid/blob/main/Simple-Price-Grid/design/desktop-view.PNG)
-![Mobile view](https://github.com/PUDE123/Simple-Price-Grid/blob/main/Simple-Price-Grid/design/mobile-view.png)
+![Desktop View](https://github.com/PUDE123/Interactive-rating-component/blob/main/interactive-rating-component-main/design/custom-desktop-design.png)
 
 
 ### Links
